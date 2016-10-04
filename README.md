@@ -1,2 +1,0 @@
-# UnityGameProject
-GameProject
